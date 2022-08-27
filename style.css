@@ -503,7 +503,7 @@ body {
     .col5{
         margin-left:auto;
     }
-    .footer *:hover{
+    .footer p:hover{
         color:hsl(171, 66%, 44%);
     }
     .col5 img:hover{
